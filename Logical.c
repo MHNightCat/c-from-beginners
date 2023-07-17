@@ -2,6 +2,7 @@
 #include <stdbool.h>
 
 int main() {
+    
     float temp = 25;
     bool sunny = true;
 
